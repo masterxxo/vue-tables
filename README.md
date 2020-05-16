@@ -1,4 +1,9 @@
-# tabele
+# Tabele
+To prosty projekt pozwalający na manipulacje kolumnami stworzonej tabeli. Powzwala dodawać i usuwać kolumny oraz wiersze. 
+
+## Stan na 16.05.202
+Projekt jest skonfigurowany oraz posiada gotową funkcjonalność. Posiada sporo rzeczy, które trzeba poprawić. 
+W kolejnych tygodniach postaram się pokazać w jaki sposób robię refactor takiego kodu.
 
 ## Project setup
 ```
